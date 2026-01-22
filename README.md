@@ -1,13 +1,13 @@
 # Wireshark Network Traffic Analysis
 
-## 📖 Project Overview
+##  Project Overview
 This project demonstrates basic network traffic analysis using Wireshark. 
 The goal is to capture and analyze live network packets to understand how 
 DNS, TCP, and HTTP protocols work in real-world scenarios.
 
 ---
 
-## 🎯 Objectives
+##  Objectives
 - Capture live network traffic
 - Analyze DNS queries and responses
 - Observe TCP 3-way handshake (SYN, SYN-ACK, ACK)
@@ -16,7 +16,7 @@ DNS, TCP, and HTTP protocols work in real-world scenarios.
 
 ---
 
-## 🛠️ Tools Used
+##  Tools Used
 - Wireshark
 - Windows OS
 - Web Browser (Chrome / Firefox)
